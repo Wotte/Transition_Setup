@@ -17,3 +17,6 @@ in order :<br>
 -Put the "Transition_Name" folder into "transitions"<br>
 -On the application enter the Path of the game folder and the .oxz file ( without extention )<br>
 -click import<br>
+
+
+In any case do it in a diferent game file to be sure to not ensure the main game file.
