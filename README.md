@@ -4,18 +4,17 @@
 
 Just After export your .oxz file through EditOneLife.exe :<br>
 
--Enter Path of your Editor Game folder and the .oxz file name without the extension<br>
+-Open the .oxz file in the application (on the left)<br>
 -Befor click export make sure that you are exporting the last objects in the list and not missing one ( witch could cause problem )<br>
-That will create a folder with all the transitions who have a reference too and a txt file with the list of the IDs<br>
+That will create a .trt file with all the transitions who have a reference too <br>
 
 <b>Import</b><br>
 
 in order :<br>
--Put .oxz file into "import_add"<br>
+-Put .trt file into "import_add" (like the .oxz)<br>
 -Run EditOneLife.exe<br>
 -Close after the load are done<br>
--Put the "Transition_Name" folder into "transitions"<br>
--On the application enter the Path of the game folder and the .oxz file ( without extention )<br>
+-Open the .trt file in the application (on the right)<br>
 -click import<br>
 
 
