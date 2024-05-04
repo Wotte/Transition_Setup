@@ -119,15 +119,8 @@
   </resheader>
   <data name="label12.Text" xml:space="preserve">
     <value>Import button will match old IDs of transition with the new IDs create 
-when import .oxz file (get with "nextObjectNumber.txt" file ) then 
-copy the file into main transition folder and ask to replace if file 
-already exist then that delete cache.fcz in transition folder.
+when import .oxz file (obtained with "nextObjectNumber.txt" file ) then 
+copy the files into main transition folder then that delete cache.fcz in transition folder.
 </value>
-  </data>
-  <data name="label8.Text" xml:space="preserve">
-    <value>- Put "Name.oxz" file in the "import_add" or "import_replace" folder
-- Execute EditOneLife.exe then after the loads close it
-- Remove "Name.oxz" from "import_add" or "import_replace"  folder
-- Put "Transitions_Name" folder in the "transitions" folder</value>
   </data>
 </root>
