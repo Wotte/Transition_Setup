@@ -1,3 +1,5 @@
+WARNING : old version, now it's named : AHAP_Manager : https://github.com/Wotte/AHAP_Manager
+
 # Transitions_setup
 <b>Description</b><br>
 
